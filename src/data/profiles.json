@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Anu",
+    "title": "Software Engineer",
+    "bio": "Passionate about creating scalable web applications.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1964&auto=format&fit=crop",
+    "email": "Anu12@example.com",
+    "phone": "+91 9087654321",
+    "location": "Mangalore, Karnataka",
+    "company": "Tech Innovations Inc.",
+    "experience": "5 years"
+  },
+  {
+    "id": "2",
+    "name": "Radha V",
+    "title": "Software tester",
+    "bio": "Specializing in intuitive and user-friendly digital experiences.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1976&auto=format&fit=crop",
+    "email": "Angel@example.com",
+    "phone": "+91 8905671231",
+    "location": "Kochi , kerala ",
+    "company": "Creative Solutions LLC",
+    "experience": "7 years"
+  },
+  {
+    "id": "3",
+    "name": "Arun Bhat",
+    "title": "Product Manager",
+    "bio": "Driven to build products that solve real-world problems.",
+    "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1930&auto=format&fit=crop",
+    "email": "sid@example.com",
+    "phone": "+91 9087651234",
+    "location": "Bengaluru, karnataka",
+    "company": "NextGen Innovations",
+    "experience": "10 years"
+  }
+]
